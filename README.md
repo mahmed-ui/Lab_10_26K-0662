@@ -1,4 +1,4 @@
-#Lab 10: File Handling and Recursion
+# Lab 10: File Handling and Recursion
 
 Solutions to the Lab 10 tasks for Programming at FAST-NUCES, Karachi. All programs are written in C.
 
